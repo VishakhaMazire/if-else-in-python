@@ -7,6 +7,6 @@
 
 Var=0
 if Var:
-    print("true")
-else:
     print("false")
+else:
+    print("true")
