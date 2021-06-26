@@ -18,10 +18,10 @@ elif month==8:
 elif month==9:
     print("31 days")
 elif month==10:
-    print("sunday")
+    print("31 days")
 elif month==11:
-    print("sunday")
+    print("30 days")
 elif month==12:
-    print("sunday")
+    print("31 days")
 else:
     print("nothing")
